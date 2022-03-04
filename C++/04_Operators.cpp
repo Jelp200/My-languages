@@ -1,4 +1,4 @@
-// The arithmetic operators in C++
+// The arithmetic operators in C++.
 
 /*
     Sum         +
