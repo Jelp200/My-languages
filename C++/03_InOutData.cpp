@@ -1,4 +1,4 @@
-// Input and output of data in C++
+// Input and output of data in C++.
 
 // Directives
 #include <iostream>
