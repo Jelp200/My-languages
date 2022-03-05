@@ -1,4 +1,4 @@
-// Data types in C++
+// Data types in C++.
 
 // Directives
 #include <iostream>

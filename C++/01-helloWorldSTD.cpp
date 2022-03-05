@@ -1,4 +1,4 @@
-// Hello world standar
+// Hello world standar.
 
 // Directives
 #include <iostream>
