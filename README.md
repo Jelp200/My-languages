@@ -1,7 +1,7 @@
 # My-languages
 This repository has my progress on the programing world
 
-###C language
+### C language :croissant:
 ```C
 #include <stdio.h>
 
@@ -10,7 +10,7 @@ int main(){
  return 0;
 }
 ```
-###C++ language
+### C++ language :croissant: :heavy_plus_sign: :heavy_plus_sign:
 ```C++
 #include <iostream>
 
@@ -21,7 +21,7 @@ int main(){
  return 0;
 }
 ```
-###HTML & CSS
+### HTML & CSS :spider_web:
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -44,7 +44,7 @@ h1{
     color: brown;
 }
 ```
-###Java language
+### Java language :coffee:
 ```java
 public class basicStruct {
     public static void main(String[] args) {
@@ -52,17 +52,17 @@ public class basicStruct {
     }
 }
 ```
-###Java Script language
+### Java Script language
 ```js
 ```
 
-###Python language
+### Python language :snake:
 ```py
 print(f"Basic line in PY")
 ```
-###R language
+### R language
 ```R
 ```
-###SQL
+### SQL
 ```sql
 ```
