@@ -89,7 +89,7 @@ elif (age > 20) and (age <= 30):
     print("20 - 30: Young adult")
 else:
     print("Other age")
-"""
+
 # Notes
 note = float(input("Give the note (0 - 10): "))
 
@@ -105,3 +105,5 @@ elif note <= 6:
     print("F")
 else:
     print("Give a correct note")
+"""
+¿¿
