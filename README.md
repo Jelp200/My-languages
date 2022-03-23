@@ -2,7 +2,7 @@
 This repository has my progress on the programing world
 
 ### C language :croissant:
-```C
+```git
 #include <stdio.h>
 
 int main(){
